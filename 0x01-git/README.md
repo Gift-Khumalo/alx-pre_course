@@ -1,1 +1,1 @@
-My secomd commit updated
+My second README updated
